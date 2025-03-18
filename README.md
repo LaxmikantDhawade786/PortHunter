@@ -43,7 +43,14 @@ To run PortHunter on your system, follow these steps:
 5. Open ports will be displayed in the output box.
 
 ## Screenshot
-![PortHunter Screenshot](screenshot.png)
+<img src="https://github.com/LaxmikantDhawade786/PortHunter/blob/main/images/Screenshot%202025-03-18%20211444.png?raw=true" alt="Sample Image">
+
+<img src="https://github.com/LaxmikantDhawade786/PortHunter/blob/main/images/Screenshot%202025-03-18%20211429.png?raw=true" alt="Sample Image">
+
+<img src="https://github.com/LaxmikantDhawade786/PortHunter/blob/main/images/Screenshot%202025-03-18%20211418.png?raw=true" alt="Sample Image">
+
+<img src="https://github.com/LaxmikantDhawade786/PortHunter/blob/main/images/Screenshot_2025-03-05_07_28_22.png?raw=true" alt="Sample Image"> 
+
 
 ## How It Works
 - The program creates a **socket connection** to each port on the target system.
